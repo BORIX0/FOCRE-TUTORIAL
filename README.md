@@ -1,6 +1,7 @@
 # FOCRE-TUTORIAL
 THIS IS FOCRE TUTORIAL . focre tutorial is showing how to use focre tools ...
 
+WATCH THE TUTORIAL VIDEO 
 
 
 BIG TUTORIAL HOW TO USE FOCRE TOOLS .. 
